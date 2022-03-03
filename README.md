@@ -1,4 +1,5 @@
 # ChargedRingInduction
-Se considera un anillo cargado con una corriente "I". Estos scripts hechos en Julia, calcula la indicción del anillo para ciertos puntos en R3 y los grafica.
 
-El archivo 2D grafica dado un valor de Z constante, el archivo 3D grafica dado un rango en X, Y y Z, en donde se especifica el numero de puntos en el intervalo. De igual manera se normalizan los vectores o se pueden dejar con su tamaño original.
+A ring charged with a current "I" is considered. The ring induction for certain points in R3 is calculated and plotted.
+
+The 2D plot file plots the vector field on a plane $(x,y,z=const)$ and also plots the induction on (0,0,z). The 3D graphic file shows the vector field of the induction produced by the ring in space. 
